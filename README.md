@@ -1,0 +1,2 @@
+# mailchimp-themes
+mailchimp templates
